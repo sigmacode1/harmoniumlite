@@ -7,7 +7,7 @@
         "isFree": "true",
         "zoom": "1.0",
         "scroll": "0.70",
-        "video": "https://www.youtube.com/watch?v=uiKK2LAd7Wo"
+        "video": ""
     }, {
         "id": "21",
         "isPublished": "true",
@@ -17,7 +17,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.50",
-        "video": "https://www.youtube.com/watch?v=cxlwKRymQ1M"
+        "video": ""
     }, {
         "id": "0",
         "isPublished": "true",
@@ -27,7 +27,7 @@
         "isFree": "true",
         "zoom": "0.9",
         "scroll": "0.50",
-        "video": "https://www.youtube.com/watch?v=0mVT5W3Wo2Y"
+        "video": ""
     },
     {
         "id": "0",
@@ -38,7 +38,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.80",
-        "video": "https://www.youtube.com/watch?v=dI8txi-_bPM"
+        "video": ""
     },
     {
         "id": "0",
@@ -49,7 +49,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.66",
-        "video": "https://www.youtube.com/watch?v=AIhEj_OZMEw"
+        "video": ""
     }, {
         "id": "0",
         "isPublished": "true",
@@ -59,7 +59,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.56",
-        "video": "https://www.youtube.com/watch?v=n3uLU-63lgM"
+        "video": ""
     }, {
         "id": "0",
         "isPublished": "true",
@@ -69,7 +69,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.46",
-        "video": "https://www.youtube.com/watch?v=tG6fNXFAYhg"
+        "video": ""
     }, {
         "id": "1",
         "isPublished": "true",
@@ -79,7 +79,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.51",
-        "video": "https://www.youtube.com/watch?v=QSxnsEpgC1k"
+        "video": ""
     }, {
         "id": "2",
         "isPublished": "true",
@@ -89,7 +89,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.51",
-        "video": "https://www.youtube.com/watch?v=utDGfPpAPBM"
+        "video": ""
     }, {
         "id": "3",
         "isPublished": "true",
@@ -99,7 +99,7 @@
         "isFree": "true",
         "zoom": "1.0",
         "scroll": "0.25",
-        "video": "https://www.youtube.com/watch?v=2SBau5hdT8I"
+        "video": ""
     }, {
         "id": "4",
         "isPublished": "true",
@@ -109,7 +109,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.95",
-        "video": "https://www.youtube.com/watch?v=RX-QCobXXss"
+        "video": ""
     },
     {
         "id": "5",
@@ -120,7 +120,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.72",
-        "video": "https://www.youtube.com/watch?v=GQGWVZEvmxE"
+        "video": ""
     },
     {
         "id": "6",
@@ -131,7 +131,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.56",
-        "video": "https://www.youtube.com/watch?v=ukx0emunlqI"
+        "video": ""
     }, {
         "id": "7",
         "isPublished": "true",
@@ -141,7 +141,7 @@
         "isFree": "true",
         "zoom": "1",
         "scroll": "0.57",
-        "video": "https://www.youtube.com/watch?v=6-y-tG4GbVE"
+        "video": ""
     }, {
         "id": "7",
         "isPublished": "false",
