@@ -1,0 +1,52 @@
+{
+    "tempo": "60",
+    "notes": [{
+        "note": "c4",
+        "duration": 1.0
+    },{
+        "note": "d4",
+        "duration": 1.0
+    },{
+        "note": "e4",
+        "duration": 1.0
+    },{
+        "note": "f4",
+        "duration": 1.0
+    },{
+        "note": "g4",
+        "duration": 1.0
+    },{
+        "note": "a4",
+        "duration": 1.0
+    },{
+        "note": "b4",
+        "duration": 1.0
+    },{
+        "note": "c5",
+        "duration": 1.0
+    },{
+        "note": "c5",
+        "duration": 1.0
+    },{
+        "note": "b4",
+        "duration": 1.0
+    },{
+        "note": "a4",
+        "duration": 1.0
+    },{
+        "note": "g4",
+        "duration": 1.0
+    },{
+        "note": "f4",
+        "duration": 1.0
+    },{
+        "note": "e4",
+        "duration": 1.0
+    },{
+        "note": "d4",
+        "duration": 1.0
+    },{
+        "note": "c4",
+        "duration": 1.0
+    }]
+}
